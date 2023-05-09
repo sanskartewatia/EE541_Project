@@ -1,4 +1,6 @@
 # EE541 Project
+
+# https://github.com/sanskartewatia/EE541_Project.git
  
 There are 4 jupyter notebooks in this repository. 2 of them are for datagen, and 2 of them are for actual model training and testing. 
 
