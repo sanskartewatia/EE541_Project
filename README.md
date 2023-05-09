@@ -10,5 +10,6 @@ cnnatt1.ipynb is the notebook where spectrogram images from the pics folders are
 harmonics_Datagen.ipynb is the notebook where the dataframe of harmonics is generated and is then exported to a csv file called "dataframe.csv" which is 250KB so that it can be used later on for training models.
 harmonics_classification.ipynb is the notebook where the pandas dataframe is imported and the ANN is trained and tested, along with testing the performance of XGBoost Classifier.
 
+The requirements.txt file lists all the libraries installed on my conda environment for your reference.
 
 Since we are not allowed to upload any datasets, but we actually generated and exported datasets, we will be uploading them to the supplementary section on canvas.
